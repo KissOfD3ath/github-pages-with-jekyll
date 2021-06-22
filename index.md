@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+layout: page
+title: "Ryan Kisslinger"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This will be my portfolio soon enough!
